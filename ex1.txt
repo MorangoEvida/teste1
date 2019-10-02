@@ -1,1 +1,3 @@
-o problema seria q o usuário teria que baixar tanto o projeto quanto o progama do git hub na máquina e configura-lo para a alteração dos arquivos
+﻿o problema seria q o usuário teria que baixar tanto o projeto quanto o progama do git hub na máquina e configura-lo para a alteração dos arquivos
+
+Beluzo >> Odin
